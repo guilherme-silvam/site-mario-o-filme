@@ -1,4 +1,4 @@
-# Site Mario O Filme ![alt text](image.png)
+# Site Mario O Filme 🎬
 
 Este é um site dedicado ao Filme do mario,  Aqui você encontrará informações detalhadas sobre o filme.
 
