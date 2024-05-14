@@ -1,4 +1,4 @@
-Site Mario O Filme
+# Site Mario O Filme ![alt text](image.png)
 
 Este é um site dedicado ao Filme do mario,  Aqui você encontrará informações detalhadas sobre o filme.
 
@@ -30,6 +30,12 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 4. Faça push para a branch (`git push origin feature/nova-funcionalidade`).
 5. Abra um Pull Request.
 
-## Autor
+## Visualização
 
-Guilherme Machado
+Aqui está uma prévia de como o site aparece(Clique na imagem caso queira acessar o site)
+[<img src="./src/imagens/tela.png">](https://guilherme-silvam.github.io/site-mario-o-filme/)
+
+## Contato
+
+- E-mail: guisilvam19@gmail.com ou  guilhermemachado019@gmail.com
+- Projeto Link: https://guilherme-silvam.github.io/site-mario-o-filme/
